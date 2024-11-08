@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: avirk18
+    Linux system name: fedora
+    Python executable: /usr/bin/python3
+    Python version: 3126
+    OS Platform: linux
+    Working Directory: /home/avirk18/ops445/Lab-5
+    Start at: Thu Nov  7 21:19:47 2024
+=================================================================
